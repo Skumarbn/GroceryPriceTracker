@@ -1,0 +1,632 @@
+[
+  {
+    "product": "Milk",
+    "store": "Safeway",
+    "price": "$7.92"
+  },
+  {
+    "product": "Milk",
+    "store": "Walmart",
+    "price": "$18.36"
+  },
+  {
+    "product": "Milk",
+    "store": "Trader Joe's",
+    "price": "$6.98"
+  },
+  {
+    "product": "Milk",
+    "store": "Whole Foods",
+    "price": "$12.34"
+  },
+  {
+    "product": "Milk",
+    "store": "Target",
+    "price": "$6.22"
+  },
+  {
+    "product": "Milk",
+    "store": "Costco",
+    "price": "$2.69"
+  },
+  {
+    "product": "Bread",
+    "store": "Safeway",
+    "price": "$1.5"
+  },
+  {
+    "product": "Bread",
+    "store": "Walmart",
+    "price": "$12.54"
+  },
+  {
+    "product": "Bread",
+    "store": "Trader Joe's",
+    "price": "$3.75"
+  },
+  {
+    "product": "Bread",
+    "store": "Whole Foods",
+    "price": "$1.3"
+  },
+  {
+    "product": "Bread",
+    "store": "Target",
+    "price": "$4.02"
+  },
+  {
+    "product": "Bread",
+    "store": "Costco",
+    "price": "$11.64"
+  },
+  {
+    "product": "Eggs",
+    "store": "Safeway",
+    "price": "$17.71"
+  },
+  {
+    "product": "Eggs",
+    "store": "Walmart",
+    "price": "$8.17"
+  },
+  {
+    "product": "Eggs",
+    "store": "Trader Joe's",
+    "price": "$1.24"
+  },
+  {
+    "product": "Eggs",
+    "store": "Whole Foods",
+    "price": "$1.12"
+  },
+  {
+    "product": "Eggs",
+    "store": "Target",
+    "price": "$5.29"
+  },
+  {
+    "product": "Eggs",
+    "store": "Costco",
+    "price": "$12.31"
+  },
+  {
+    "product": "Cheese",
+    "store": "Safeway",
+    "price": "$14.11"
+  },
+  {
+    "product": "Cheese",
+    "store": "Walmart",
+    "price": "$16.88"
+  },
+  {
+    "product": "Cheese",
+    "store": "Trader Joe's",
+    "price": "$14.15"
+  },
+  {
+    "product": "Cheese",
+    "store": "Whole Foods",
+    "price": "$12.16"
+  },
+  {
+    "product": "Cheese",
+    "store": "Target",
+    "price": "$5.38"
+  },
+  {
+    "product": "Cheese",
+    "store": "Costco",
+    "price": "$0.98"
+  },
+  {
+    "product": "Butter",
+    "store": "Safeway",
+    "price": "$19.25"
+  },
+  {
+    "product": "Butter",
+    "store": "Walmart",
+    "price": "$8.52"
+  },
+  {
+    "product": "Butter",
+    "store": "Trader Joe's",
+    "price": "$12.39"
+  },
+  {
+    "product": "Butter",
+    "store": "Whole Foods",
+    "price": "$6.26"
+  },
+  {
+    "product": "Butter",
+    "store": "Target",
+    "price": "$11.49"
+  },
+  {
+    "product": "Butter",
+    "store": "Costco",
+    "price": "$5.2"
+  },
+  {
+    "product": "Tomatoes",
+    "store": "Safeway",
+    "price": "$3.13"
+  },
+  {
+    "product": "Tomatoes",
+    "store": "Walmart",
+    "price": "$19.58"
+  },
+  {
+    "product": "Tomatoes",
+    "store": "Trader Joe's",
+    "price": "$12.06"
+  },
+  {
+    "product": "Tomatoes",
+    "store": "Whole Foods",
+    "price": "$8.07"
+  },
+  {
+    "product": "Tomatoes",
+    "store": "Target",
+    "price": "$2.56"
+  },
+  {
+    "product": "Tomatoes",
+    "store": "Costco",
+    "price": "$15.59"
+  },
+  {
+    "product": "Lettuce",
+    "store": "Safeway",
+    "price": "$7.82"
+  },
+  {
+    "product": "Lettuce",
+    "store": "Walmart",
+    "price": "$8.0"
+  },
+  {
+    "product": "Lettuce",
+    "store": "Trader Joe's",
+    "price": "$10.43"
+  },
+  {
+    "product": "Lettuce",
+    "store": "Whole Foods",
+    "price": "$9.75"
+  },
+  {
+    "product": "Lettuce",
+    "store": "Target",
+    "price": "$19.81"
+  },
+  {
+    "product": "Lettuce",
+    "store": "Costco",
+    "price": "$16.66"
+  },
+  {
+    "product": "Cereal",
+    "store": "Safeway",
+    "price": "$16.1"
+  },
+  {
+    "product": "Cereal",
+    "store": "Walmart",
+    "price": "$1.51"
+  },
+  {
+    "product": "Cereal",
+    "store": "Trader Joe's",
+    "price": "$17.27"
+  },
+  {
+    "product": "Cereal",
+    "store": "Whole Foods",
+    "price": "$3.66"
+  },
+  {
+    "product": "Cereal",
+    "store": "Target",
+    "price": "$2.92"
+  },
+  {
+    "product": "Cereal",
+    "store": "Costco",
+    "price": "$15.33"
+  },
+  {
+    "product": "Chicken",
+    "store": "Safeway",
+    "price": "$15.53"
+  },
+  {
+    "product": "Chicken",
+    "store": "Walmart",
+    "price": "$12.63"
+  },
+  {
+    "product": "Chicken",
+    "store": "Trader Joe's",
+    "price": "$15.31"
+  },
+  {
+    "product": "Chicken",
+    "store": "Whole Foods",
+    "price": "$6.59"
+  },
+  {
+    "product": "Chicken",
+    "store": "Target",
+    "price": "$8.64"
+  },
+  {
+    "product": "Chicken",
+    "store": "Costco",
+    "price": "$2.16"
+  },
+  {
+    "product": "Fish",
+    "store": "Safeway",
+    "price": "$6.08"
+  },
+  {
+    "product": "Fish",
+    "store": "Walmart",
+    "price": "$12.58"
+  },
+  {
+    "product": "Fish",
+    "store": "Trader Joe's",
+    "price": "$1.82"
+  },
+  {
+    "product": "Fish",
+    "store": "Whole Foods",
+    "price": "$7.86"
+  },
+  {
+    "product": "Fish",
+    "store": "Target",
+    "price": "$2.48"
+  },
+  {
+    "product": "Fish",
+    "store": "Costco",
+    "price": "$12.97"
+  },
+  {
+    "product": "Bananas",
+    "store": "Safeway",
+    "price": "$1.9"
+  },
+  {
+    "product": "Bananas",
+    "store": "Walmart",
+    "price": "$17.4"
+  },
+  {
+    "product": "Bananas",
+    "store": "Trader Joe's",
+    "price": "$4.29"
+  },
+  {
+    "product": "Bananas",
+    "store": "Whole Foods",
+    "price": "$9.55"
+  },
+  {
+    "product": "Bananas",
+    "store": "Target",
+    "price": "$7.78"
+  },
+  {
+    "product": "Bananas",
+    "store": "Costco",
+    "price": "$19.14"
+  },
+  {
+    "product": "Apples",
+    "store": "Safeway",
+    "price": "$10.98"
+  },
+  {
+    "product": "Apples",
+    "store": "Walmart",
+    "price": "$13.43"
+  },
+  {
+    "product": "Apples",
+    "store": "Trader Joe's",
+    "price": "$4.72"
+  },
+  {
+    "product": "Apples",
+    "store": "Whole Foods",
+    "price": "$18.18"
+  },
+  {
+    "product": "Apples",
+    "store": "Target",
+    "price": "$13.18"
+  },
+  {
+    "product": "Apples",
+    "store": "Costco",
+    "price": "$16.5"
+  },
+  {
+    "product": "Orange Juice",
+    "store": "Safeway",
+    "price": "$7.05"
+  },
+  {
+    "product": "Orange Juice",
+    "store": "Walmart",
+    "price": "$9.59"
+  },
+  {
+    "product": "Orange Juice",
+    "store": "Trader Joe's",
+    "price": "$13.95"
+  },
+  {
+    "product": "Orange Juice",
+    "store": "Whole Foods",
+    "price": "$4.13"
+  },
+  {
+    "product": "Orange Juice",
+    "store": "Target",
+    "price": "$8.77"
+  },
+  {
+    "product": "Orange Juice",
+    "store": "Costco",
+    "price": "$2.07"
+  },
+  {
+    "product": "Yogurt",
+    "store": "Safeway",
+    "price": "$14.44"
+  },
+  {
+    "product": "Yogurt",
+    "store": "Walmart",
+    "price": "$13.03"
+  },
+  {
+    "product": "Yogurt",
+    "store": "Trader Joe's",
+    "price": "$5.35"
+  },
+  {
+    "product": "Yogurt",
+    "store": "Whole Foods",
+    "price": "$13.64"
+  },
+  {
+    "product": "Yogurt",
+    "store": "Target",
+    "price": "$15.54"
+  },
+  {
+    "product": "Yogurt",
+    "store": "Costco",
+    "price": "$9.04"
+  },
+  {
+    "product": "Rice",
+    "store": "Safeway",
+    "price": "$9.4"
+  },
+  {
+    "product": "Rice",
+    "store": "Walmart",
+    "price": "$10.0"
+  },
+  {
+    "product": "Rice",
+    "store": "Trader Joe's",
+    "price": "$8.32"
+  },
+  {
+    "product": "Rice",
+    "store": "Whole Foods",
+    "price": "$18.98"
+  },
+  {
+    "product": "Rice",
+    "store": "Target",
+    "price": "$16.28"
+  },
+  {
+    "product": "Rice",
+    "store": "Costco",
+    "price": "$10.27"
+  },
+  {
+    "product": "Pasta",
+    "store": "Safeway",
+    "price": "$12.52"
+  },
+  {
+    "product": "Pasta",
+    "store": "Walmart",
+    "price": "$5.12"
+  },
+  {
+    "product": "Pasta",
+    "store": "Trader Joe's",
+    "price": "$12.12"
+  },
+  {
+    "product": "Pasta",
+    "store": "Whole Foods",
+    "price": "$18.57"
+  },
+  {
+    "product": "Pasta",
+    "store": "Target",
+    "price": "$1.8"
+  },
+  {
+    "product": "Pasta",
+    "store": "Costco",
+    "price": "$14.38"
+  },
+  {
+    "product": "Sugar",
+    "store": "Safeway",
+    "price": "$7.91"
+  },
+  {
+    "product": "Sugar",
+    "store": "Walmart",
+    "price": "$4.78"
+  },
+  {
+    "product": "Sugar",
+    "store": "Trader Joe's",
+    "price": "$2.79"
+  },
+  {
+    "product": "Sugar",
+    "store": "Whole Foods",
+    "price": "$2.66"
+  },
+  {
+    "product": "Sugar",
+    "store": "Target",
+    "price": "$9.57"
+  },
+  {
+    "product": "Sugar",
+    "store": "Costco",
+    "price": "$17.33"
+  },
+  {
+    "product": "Salt",
+    "store": "Safeway",
+    "price": "$13.41"
+  },
+  {
+    "product": "Salt",
+    "store": "Walmart",
+    "price": "$17.4"
+  },
+  {
+    "product": "Salt",
+    "store": "Trader Joe's",
+    "price": "$7.52"
+  },
+  {
+    "product": "Salt",
+    "store": "Whole Foods",
+    "price": "$6.2"
+  },
+  {
+    "product": "Salt",
+    "store": "Target",
+    "price": "$1.49"
+  },
+  {
+    "product": "Salt",
+    "store": "Costco",
+    "price": "$5.07"
+  },
+  {
+    "product": "Coffee",
+    "store": "Safeway",
+    "price": "$15.58"
+  },
+  {
+    "product": "Coffee",
+    "store": "Walmart",
+    "price": "$18.29"
+  },
+  {
+    "product": "Coffee",
+    "store": "Trader Joe's",
+    "price": "$7.32"
+  },
+  {
+    "product": "Coffee",
+    "store": "Whole Foods",
+    "price": "$18.38"
+  },
+  {
+    "product": "Coffee",
+    "store": "Target",
+    "price": "$18.09"
+  },
+  {
+    "product": "Coffee",
+    "store": "Costco",
+    "price": "$4.39"
+  },
+  {
+    "product": "Tea",
+    "store": "Safeway",
+    "price": "$10.47"
+  },
+  {
+    "product": "Tea",
+    "store": "Walmart",
+    "price": "$0.56"
+  },
+  {
+    "product": "Tea",
+    "store": "Trader Joe's",
+    "price": "$19.57"
+  },
+  {
+    "product": "Tea",
+    "store": "Whole Foods",
+    "price": "$19.16"
+  },
+  {
+    "product": "Tea",
+    "store": "Target",
+    "price": "$3.33"
+  },
+  {
+    "product": "Tea",
+    "store": "Costco",
+    "price": "$16.47"
+  },
+  {
+    "product": "Juice",
+    "store": "Safeway",
+    "price": "$9.71"
+  },
+  {
+    "product": "Juice",
+    "store": "Walmart",
+    "price": "$8.55"
+  },
+  {
+    "product": "Juice",
+    "store": "Trader Joe's",
+    "price": "$6.59"
+  },
+  {
+    "product": "Juice",
+    "store": "Whole Foods",
+    "price": "$19.14"
+  },
+  {
+    "product": "Juice",
+    "store": "Target",
+    "price": "$10.5"
+  },
+  {
+    "product": "Juice",
+    "store": "Costco",
+    "price": "$7.05"
+  }
+]
